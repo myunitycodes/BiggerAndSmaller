@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - JumpStartPoint
+  - JumpFinishPoint
+  - MainMenuPanel
+  - Coin
+  - GemNumber
+  - FinishPanel
   layers:
   - Default
   - TransparentFX
